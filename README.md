@@ -1,4 +1,4 @@
-# 🚀 Machine Learning Major Projects
+#  Machine Learning Major Projects
 
 A collection of end-to-end Machine Learning projects focused on solving practical problems using **Supervised Learning, Unsupervised Learning, NLP, and Deep Learning**.
 
@@ -8,9 +8,9 @@ The goal of this repository is not to showcase individual algorithms in isolatio
 
 ---
 
-# 📚 Projects
+#  Projects
 
-## 1. 🏠 House Price Prediction
+## 1.  House Price Prediction
 
 **Type:** Supervised Learning — Regression
 
@@ -41,7 +41,7 @@ Predict residential property prices using structured housing data.
 
 ---
 
-## 2. 💳 Credit Card Fraud Detection
+## 2.  Credit Card Fraud Detection
 
 **Type:** Supervised Learning — Classification
 
@@ -80,7 +80,7 @@ Detect fraudulent credit card transactions while handling severe class imbalance
 
 ---
 
-# 🧠 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Data Analysis
 
@@ -124,7 +124,7 @@ Detect fraudulent credit card transactions while handling severe class imbalance
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ```text
 Python
@@ -142,7 +142,7 @@ Python
 
 ---
 
-# 🎯 Portfolio Roadmap
+#  Portfolio Roadmap
 
 This repository will progressively cover:
 
@@ -159,7 +159,7 @@ The objective is to build a focused portfolio where each major project demonstra
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm building my Machine Learning portfolio with a focus on developing a strong understanding of **ML fundamentals, model evaluation, feature engineering, Deep Learning and NLP**.
 
@@ -171,8 +171,8 @@ I prefer learning concepts deeply, implementing them from scratch where useful, 
 
 ---
 
-# 📬 Connect
+#  Connect
 
-**GitHub:** `<your-github-url>`
+**GitHub:** `https://github.com/developrishu-cell`
 
-**LinkedIn:** `<your-linkedin-url>`
+**LinkedIn:** `https://www.linkedin.com/in/rishu-ranjan-choudhary-665150358/`
